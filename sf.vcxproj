@@ -142,7 +142,6 @@
     <ClCompile Include="Neptune.cpp" />
     <ClCompile Include="Saturn.cpp" />
     <ClCompile Include="TheSun.cpp" />
-    <ClCompile Include="Track.cpp" />
     <ClCompile Include="Update.cpp" />
     <ClCompile Include="Uranus.cpp" />
     <ClCompile Include="Venus.cpp" />
@@ -158,7 +157,6 @@
     <ClInclude Include="Saturn.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="TheSun.h" />
-    <ClInclude Include="Track.h" />
     <ClInclude Include="Uranus.h" />
     <ClInclude Include="Venus.h" />
   </ItemGroup>

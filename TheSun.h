@@ -14,12 +14,11 @@ namespace SolarSystem {
 		Sprite circle;
 		Vector2f position;
 		
-		/*Color color;*/
+		
 		Texture texture;
-		//int rad;
+		
 		float _angle;
-		float speed;
-		//int trackrad;
+		
 		
 	public:
 		  TheSun();
